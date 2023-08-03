@@ -1,0 +1,8 @@
+mynumber= 3     //printing int 
+print(mynumber)
+
+mynumber2= 4.6        //printing float
+print(mynumber2)
+
+mynumber="hello world"   //printing string 
+print(mynumber)
